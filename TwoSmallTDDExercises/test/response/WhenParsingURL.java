@@ -1,5 +1,7 @@
 package response;
 
+import org.junit.Test;
+
 import junit.framework.TestCase;
 
 public class WhenParsingURL extends TestCase{
